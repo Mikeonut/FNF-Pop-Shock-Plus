@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "jam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Free..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm finally FREE!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The tests... they are done... I have become my strongest form..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Jam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Unfortunatley for you... your journey ends here..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Jam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I was summoned here... by her... the rift queen."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Jam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The Mid-Rift is mine to claim."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Jam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And only one rift master can remain..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "...beep???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Jam",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Prepare to be crushed..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Jam2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And you..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Jam2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I see you... the one pulling the strings. The one that sees above all..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "jam2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Your illusion cannot blind me anymore... I can see through the barrier... and you can't get rid of me again..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Jam2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I was saved, and now I'm free... I hope you are less fourtunate than I."
+		}
+	]
+}

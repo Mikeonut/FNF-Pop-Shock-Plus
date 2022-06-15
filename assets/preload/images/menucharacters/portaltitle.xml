@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portaltitle.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="portaltitle instance 10000" x="0" y="0" width="721" height="1080"/>
+	<SubTexture name="portaltitle instance 10001" x="0" y="1080" width="721" height="1080"/>
+	<SubTexture name="portaltitle instance 10002" x="0" y="2160" width="721" height="1080"/>
+	<SubTexture name="portaltitle instance 10003" x="0" y="3240" width="721" height="1080"/>
+	<SubTexture name="portaltitle instance 10004" x="0" y="4320" width="721" height="1080"/>
+	<SubTexture name="portaltitle instance 10005" x="0" y="5400" width="721" height="1080"/>
+	<SubTexture name="portaltitle instance 10006" x="721" y="0" width="721" height="1080"/>
+	<SubTexture name="portaltitle instance 10007" x="721" y="1080" width="721" height="1080"/>
+	<SubTexture name="portaltitle instance 10008" x="721" y="2160" width="721" height="1080"/>
+	<SubTexture name="portaltitle instance 10009" x="721" y="3240" width="721" height="1080"/>
+	<SubTexture name="portaltitle instance 10010" x="721" y="4320" width="721" height="1080"/>
+	<SubTexture name="portaltitle instance 10011" x="721" y="5400" width="721" height="1080"/>
+	<SubTexture name="portaltitle instance 10012" x="1442" y="0" width="721" height="1080"/>
+	<SubTexture name="portaltitle instance 10013" x="1442" y="1080" width="721" height="1080"/>
+	<SubTexture name="portaltitle instance 10014" x="1442" y="2160" width="721" height="1080"/>
+	<SubTexture name="portaltitle instance 10015" x="1442" y="3240" width="721" height="1080"/>
+</TextureAtlas>

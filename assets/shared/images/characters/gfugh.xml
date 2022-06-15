@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfugh.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF tw instance 10000" x="0" y="0" width="1146" height="659" frameX="0" frameY="0" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10001" x="1146" y="0" width="1146" height="659" frameX="0" frameY="0" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10002" x="2292" y="0" width="1149" height="655" frameX="0" frameY="-6" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10003" x="3441" y="0" width="1149" height="658" frameX="0" frameY="-3" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10004" x="4590" y="0" width="1149" height="661"/>
+	<SubTexture name="GF tw instance 10005" x="5739" y="0" width="1149" height="661"/>
+	<SubTexture name="GF tw instance 10006" x="6888" y="0" width="1149" height="660" frameX="0" frameY="-1" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10007" x="0" y="661" width="1149" height="660" frameX="0" frameY="-1" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10008" x="1149" y="661" width="1149" height="660" frameX="0" frameY="-1" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10009" x="2298" y="661" width="1149" height="660" frameX="0" frameY="-1" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10010" x="3447" y="661" width="1149" height="660" frameX="0" frameY="-1" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10011" x="4596" y="661" width="1149" height="660" frameX="0" frameY="-1" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10012" x="5745" y="661" width="1149" height="660" frameX="0" frameY="-1" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10013" x="6894" y="661" width="1149" height="660" frameX="0" frameY="-1" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10014" x="0" y="1321" width="1149" height="660" frameX="0" frameY="-1" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10015" x="1149" y="1321" width="1146" height="651" frameX="0" frameY="-8" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10016" x="2295" y="1321" width="1146" height="651" frameX="0" frameY="-8" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10017" x="3441" y="1321" width="1149" height="652" frameX="0" frameY="-9" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10018" x="3441" y="1321" width="1149" height="652" frameX="0" frameY="-9" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10019" x="4590" y="1321" width="1149" height="652" frameX="0" frameY="-9" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10020" x="5739" y="1321" width="1149" height="655" frameX="0" frameY="-6" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10021" x="6888" y="1321" width="1149" height="658" frameX="0" frameY="-3" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10022" x="0" y="1981" width="1149" height="660" frameX="0" frameY="-1" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10023" x="1149" y="1981" width="1149" height="659" frameX="0" frameY="-2" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10024" x="2298" y="1981" width="1149" height="659" frameX="0" frameY="-2" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10025" x="3447" y="1981" width="1149" height="659" frameX="0" frameY="-2" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10026" x="4596" y="1981" width="1149" height="660" frameX="0" frameY="-1" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10027" x="5745" y="1981" width="1149" height="660" frameX="0" frameY="-1" frameWidth="1149" frameHeight="661"/>
+	<SubTexture name="GF tw instance 10028" x="6894" y="1981" width="1149" height="661"/>
+	<SubTexture name="GF tw instance 10029" x="0" y="2642" width="1149" height="661"/>
+</TextureAtlas>

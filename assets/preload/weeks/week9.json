@@ -1,0 +1,31 @@
+{
+	"storyName": "???",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "pop",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week8",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"portaltitle",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Nullruption",
+			"jam",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Pop Shock+ (Secret)"
+}

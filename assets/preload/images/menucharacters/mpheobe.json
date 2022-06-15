@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Pheobe instance 1",
+	"image": "mpheobe",
+	"position": [
+		750,
+		877
+	],
+	"scale": 0.18,
+	"confirm_anim": "M Dad Idle"
+}

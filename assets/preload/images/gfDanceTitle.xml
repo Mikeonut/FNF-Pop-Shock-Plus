@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfDanceTitle.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pheobetitle instance 10000" x="0" y="0" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10001" x="0" y="0" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10002" x="0" y="0" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10003" x="599" y="0" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10004" x="1198" y="0" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10005" x="1797" y="0" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10006" x="2396" y="0" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10007" x="2995" y="0" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10008" x="0" y="707" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10009" x="599" y="707" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10010" x="1198" y="707" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10011" x="1198" y="707" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10012" x="1198" y="707" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10013" x="1797" y="707" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10014" x="2396" y="707" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10015" x="2995" y="0" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10016" x="2995" y="707" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10017" x="1797" y="0" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10018" x="0" y="1414" width="599" height="707"/>
+	<SubTexture name="pheobetitle instance 10019" x="599" y="1414" width="599" height="707"/>
+</TextureAtlas>

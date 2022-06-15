@@ -1,0 +1,49 @@
+{
+	"storyName": "Multiversal Malstorm",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "pop",
+	"weekBefore": "week7",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Rescooted",
+			"egg",
+			[
+				255,
+				175,
+				200
+			]
+		],
+		[
+			"Kernel-Panic",
+			"pheobe",
+			[
+				75,
+				0,
+				255
+			]
+		],
+		[
+			"battlefield-frenzy",
+			"twpheobeicons",
+			[
+				255,
+				60,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"portaltitle",
+		"bf",
+		"gf"
+	],
+	"weekName": "Pop Shock+"
+}

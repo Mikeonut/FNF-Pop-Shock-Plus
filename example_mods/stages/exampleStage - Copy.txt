@@ -1,0 +1,5 @@
+function onCreate()
+	makeLuaSorite('theGround','Background2',0,-200)
+	addLuaSprite ('theGround',false)
+	close(true)
+end

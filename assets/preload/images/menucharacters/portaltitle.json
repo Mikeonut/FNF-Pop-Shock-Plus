@@ -1,0 +1,10 @@
+{
+	"idle_anim": "portaltitle instance 100",
+	"image": "portaltitle",
+	"position": [
+		324,
+		371
+	],
+	"scale": 0.37,
+	"confirm_anim": "M Dad Idle"
+}

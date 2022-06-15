@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pheyellow.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pheobe instance 10000" x="0" y="0" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 10001" x="0" y="0" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 10002" x="846" y="0" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 10003" x="1692" y="0" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 10004" x="2538" y="0" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 10005" x="2538" y="0" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 10006" x="2538" y="0" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 10007" x="2538" y="0" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 10008" x="2538" y="0" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 10009" x="2538" y="0" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 20010" x="0" y="1080" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 20011" x="0" y="1080" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 20012" x="846" y="1080" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 20013" x="846" y="1080" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 20014" x="846" y="1080" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 30015" x="1692" y="1080" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 30016" x="1692" y="1080" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 30017" x="2538" y="1080" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 30018" x="2538" y="1080" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 30019" x="2538" y="1080" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 40020" x="0" y="2160" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 40021" x="0" y="2160" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 40022" x="846" y="2160" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 40023" x="846" y="2160" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 40024" x="846" y="2160" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 50025" x="1692" y="2160" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 50026" x="1692" y="2160" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 50027" x="2538" y="2160" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 50028" x="2538" y="2160" width="846" height="1080"/>
+	<SubTexture name="Pheobe instance 50029" x="2538" y="2160" width="846" height="1080"/>
+</TextureAtlas>

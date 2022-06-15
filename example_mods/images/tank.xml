@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tank.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tank instance 10000" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="tank instance 10001" x="0" y="0" width="1920" height="1080"/>
+	<SubTexture name="tank instance 10002" x="1920" y="0" width="1920" height="1080"/>
+	<SubTexture name="tank instance 10003" x="3840" y="0" width="1920" height="1080"/>
+	<SubTexture name="tank instance 10004" x="5760" y="0" width="1920" height="1080"/>
+	<SubTexture name="tank instance 10005" x="0" y="1080" width="1920" height="1080"/>
+	<SubTexture name="tank instance 10006" x="1920" y="1080" width="1920" height="1080"/>
+	<SubTexture name="tank instance 10007" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="tank instance 10008" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="tank instance 10009" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="tank instance 10010" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="tank instance 10011" x="3840" y="1080" width="1920" height="1080"/>
+	<SubTexture name="tank instance 10012" x="3840" y="1080" width="1920" height="1080"/>
+</TextureAtlas>

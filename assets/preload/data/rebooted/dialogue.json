@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "pheobep2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey! How did you get back here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pheobep2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The backstage is for authorized personel only!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bee Boop?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pheobep2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Pheobep2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You want to challenge me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Pheobep2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Like right now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Pheobep2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Pheobep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I thought you would be begging for an auto- graph or something."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boop Skee!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Pheobep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok kid, lets do this then."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Pheobep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Besides, I could use a little... Practice."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "!!!"
+		}
+	]
+}

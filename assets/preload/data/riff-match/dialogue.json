@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Pheobep2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Not bad kid... But don't think I'm just gonna go up on stage after losing to you."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Pheobep2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yep. Round two blue."
+		}
+	]
+}

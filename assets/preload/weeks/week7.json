@@ -1,0 +1,49 @@
+{
+	"storyName": "Vs Pheobe",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "pop",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Rebooted",
+			"pheobe",
+			[
+				255,
+				40,
+				255
+			]
+		],
+		[
+			"Riff-Match",
+			"pheobe",
+			[
+				255,
+				40,
+				255
+			]
+		],
+		[
+			"Neon-Nits",
+			"pheobe",
+			[
+				255,
+				40,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"pheobeweeked",
+		"bf",
+		"gf"
+	],
+	"weekName": "Pop Shock+"
+}
